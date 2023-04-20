@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+Validators caseros 
 
-# =============================================================================
-# Validators caseros 
-# 
-# @author: Tora-U00F1-o
-# =============================================================================
-
+@author: Tora-U00F1-o
+"""
 
 """Return if string is valid"""
 def isStringValid(string):
