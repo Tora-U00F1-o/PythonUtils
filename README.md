@@ -1,4 +1,4 @@
-# PythonUtils
+# PythonUtils :snake:
 
 Some python modules "caseros"
 
@@ -6,6 +6,10 @@ Some python modules "caseros"
 | ----------- | ----------- |
 | Ajuntador.py | Combines multiple files .py into one. Removes comments and white lines |
 | Check.py | Validators for objects [Strings, ...]|
-| Console.py | Console utils[^1] |
+| Console.py | Console utils |
 
-[^1]: Uses the module colorama $>pip install colorama
+## External modules
+Modules to install to use each module
+
+  - Colorama: >`pip install colorama`
+    - Console.py
